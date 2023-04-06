@@ -1,2 +1,6 @@
 ---
 # vars file for apache
+    custom_port: 9090
+    user_name: meghana 
+    user_home: /home/meghana 
+... 
